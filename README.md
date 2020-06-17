@@ -12,6 +12,12 @@ USAGE: Change the payload bytes in the file shell_o.py and run it, then paste th
 
 The deobfuscator is provided in C / C++, just edit it and compile using GCC.
 
+*ADDED DEMO FILES:
+ shell_o_demo.py
+ run_demo.cpp
+ demo.exe
+ IT SHOWS ONE SIMPLE MESSAGEBOX WHEN YOU RUN demo.exe*
+
 *PT - BR*
 
 * ATENÇÃO! NÃO RESPONSABILIZO POR SEUS ATOS, ESTE CÓDIGO É APENAS PARA FINS EDUCACIONAIS! "
@@ -25,3 +31,9 @@ EXEMPLO: / x21> / xa2 / xf1
 USO: Altere os bytes da shellcode no arquivo shell_o.py e execute-o, cole a saída em run.cpp, compile-o e execute-o na máquina de destino.
 
 O desobfuscador é fornecido em C / C ++, basta editá-lo e compilar usando o GCC.
+
+*ADICIONADO AQRUIVOS DE DEMONSTRAÇÃO:
+ shell_o_demo.py
+ run_demo.cpp
+ demo.exe
+ EXIBE UMA CAIXA DE MENSAGEM AO RODAR O ARQUIVO demo.exe*
